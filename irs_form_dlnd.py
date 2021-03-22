@@ -13,7 +13,6 @@ import json
 import sys  
 import platform
 import re
-# test line
 driver = webdriver.Chrome(executable_path=binary_path)
 driver.get("https://apps.irs.gov/app/picklist/list/priorFormPublication.html") 
 file_path = os.path.dirname(os.path.realpath(__file__))
