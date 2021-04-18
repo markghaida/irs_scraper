@@ -1,4 +1,4 @@
-<img src="Irs Webscraper GitHub ReadMe Cover.png" alt="Honeycomb" width="1200"/>
+<img src="Irs Webscraper GitHub ReadMe Cover.png" alt="IRS Webscraper" width="1200"/>
 
 NOTES:
 
