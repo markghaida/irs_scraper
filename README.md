@@ -1,6 +1,6 @@
 <img src="Irs Webscraper GitHub ReadMe Cover.png" alt="IRS Webscraper" width="1200"/>
 
-## Enironment
+## Environment
 
 <br>
 
